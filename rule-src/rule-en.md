@@ -266,4 +266,4 @@ When both Fatal Couple and Yuri Bigamy is not born at the end of 9th turn, winne
 
 - In 1st turn, another girls pair (not an initial couple setteled in Setup) became a couple. Does this couple try Kiss of Promise in 1st turn?
 
-  - Yes, they try. Only initial couple formed by Setup does not try Kiss of Promise in 1st turn. The initial couple also tries Kiss of Promise like other couples after 2nd turn.
+  - Yes, they try. Only initial couple formed at Setup does not try Kiss of Promise in 1st turn. The initial couple also tries Kiss of Promise like other couples after 2nd turn.
