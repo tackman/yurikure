@@ -16,7 +16,7 @@ Or Yuri Bigamy wiht three or more girls may also bring victory for players unsat
 
 ## Components
 
-![component image](img/components.png)
+![component image](img/components-en.png)
 
 # Setup
 
