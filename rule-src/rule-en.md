@@ -12,7 +12,7 @@ Players assign Support Point to their desired Girls Pair in secret.
 Each player's Control Point of every gril will be introduced by assigned Support Point.
 You can gain control of girl's Action by **exposing your control points**.
 When your desired Girls Pair becomes Fatal couple, you are next to victory.
-Or Yuri Bigamy wiht three or more girls may also bring victory for players unsatisfied by a single girl-girl pair.
+Or Yuri Polygamy with three or more girls may also bring victory for players unsatisfied by a single girl-girl pair.
 
 ## Components
 
@@ -106,7 +106,7 @@ You may assign 6th turn' additional points one by one. In other words, you can d
 When game end condition is satisfied in "Kiss of Promise phase", the turn ends **immediately** and proceeds to winner determination.
 
 ```
-Immediate turn end may affect when Fatal couple and Yuri Bigamy are satisifed in same time.
+Immediate turn end may affect when Fatal couple and Yuri Polygamy are satisifed in same time.
 ```
 
 Game longs 9 turns in max. When 9th turn ends the game proceeds to winner determination.
@@ -238,24 +238,24 @@ Player B has revealed 1 Control Point to Shirakaba and 5 Control Point to Midori
 Sum of revealed Cotnrol Points is; A is 7, B is 6. It results winner is B.
 ```
 
-## Yuri Bigamy to end game
+## Yuri Polygamy to end game
 
-When no Fatal Couple is born in Kiss of Promise phase, check Yuri Bigamy is formed or not. Yuri Bigamy means "In 3 ore more girls group, all girls pair in group is couple".
+When no Fatal Couple is born in Kiss of Promise phase, check Yuri Polygamy is formed or not. Yuri Polygamy means "In 3 ore more girls group, all girls pair in group is couple".
 
 ```
-Example 1: When Akane and Shirakaba, Shirakaba and Kuroki, Kuroki and Akane are couples, Akane-Shirakaba-Kuroki's Yuri Bigamy is formed.
-Example 2: When Sorai and Midorino, Midorino and Tsuge are couples and Sorai and Tsuge is not a couple, Sorai-Midorino-Tsuge is not a Yuri Bigamy.
-Example 3: Murafuji and Akane, Murafuji and Kuroki, Murafuji and Shirakaba, Akane and Kuroki, Akane and Shirakaba, Kuroki and Shirakaba are couples, Murafuji-Akane-Kuroki-Shirakaba forms Yuri Bigamy.
+Example 1: When Akane and Shirakaba, Shirakaba and Kuroki, Kuroki and Akane are couples, Akane-Shirakaba-Kuroki's Yuri Polygamy is formed.
+Example 2: When Sorai and Midorino, Midorino and Tsuge are couples and Sorai and Tsuge is not a couple, Sorai-Midorino-Tsuge is not a Yuri Polygamy.
+Example 3: Murafuji and Akane, Murafuji and Kuroki, Murafuji and Shirakaba, Akane and Kuroki, Akane and Shirakaba, Kuroki and Shirakaba are couples, Murafuji-Akane-Kuroki-Shirakaba forms Yuri Polygamy.
 
-Note that already-coupled girl cannot confess to any other girl. Yuri Bigamy cannot be formed only by Confessions.
+Note that already-coupled girl cannot confess to any other girl. Yuri Polygamy cannot be formed only by Confessions.
 ```
 
-When Yuri Bigamy is formed, the game ends and proceed to determinate winner. Winner is determined by sum of Suuport Points assigned to girls pairs included in Yuri Bigamy group.
+When Yuri Polygamy is formed, the game ends and proceed to determinate winner. Winner is determined by sum of Suuport Points assigned to girls pairs included in Yuri Polygamy group.
 Tie-break is also determined by revealed Control Points same as Fatal Couple's case. Less revealed player is winner.
 
 ## Game end by 9th turn
 
-When both Fatal Couple and Yuri Bigamy is not born at the end of 9th turn, winner is determined by existing couple(s). Count Support Points (and Control Points to tie-break) same as Fatal Couple's case.
+When both Fatal Couple and Yuri Polygamy is not born at the end of 9th turn, winner is determined by existing couple(s). Count Support Points (and Control Points to tie-break) same as Fatal Couple's case.
 
 # Misc rules
 
