@@ -141,9 +141,9 @@ Above is simplified rule about revealing Control Points. More strict (but comple
 Approach raises Favor level between approaching girl and approached girl.
 Approach action is declared with target (approached) girl. Raise Favor level by 1 to the pair.
 
-If approaching girl or approached girl is a part of coupled girls pair that is not a pair of approaching / approached girls, raise Discomfort level by 1 to pairs other than approaching / approached girls pair.
+If approaching / approached girl is a part of coupled girls, and approaching to a girl other than the coupled girl / approached by a girl other than the coupled girl, raise Discomfort level by 1 to the pair(s).
 
-Favor level and Discomfort level are counted separately. For example, when Discomfort level raises to a pair which has Favor level 4, Favor level will NOT be decrease to 3, but the pair will have BOTH Favor level 4 and Discomfort level 1.
+Favor level and Discomfort level are counted separately. For example, when Discomfort level raises to a pair having Favor level 4, Favor level will NOT be decrease to 3, but the pair will have BOTH Favor level 4 and Discomfort level 1.
 
 Favor levels and Discomfort levels are expressed by Favor/Discomfort tokens bridged between girls.
 
@@ -172,13 +172,13 @@ A girl who is already a part of couple may be confessed from other girls. This m
 
 #### Game of Love
 
-This action is a game of love played by girls. You need to declare Game of Love with target girls "pair", that does not form a couple
+This action is a game of love, played by girls. You need to declare Game of Love with target girls "pair". The target girls must not form a couple
 (it does not matter whether a girl of the target girls pair forms couple to other girl(s)).
-A target girls pair will be voted whether they should be a couple or not by other girls.
+The target girls pair will be voted whether they should be a couple or not by other girls.
 
 1. Other girls vote "Agree" or "Disagree" to the target girls pair.
    - Choice of vote is decided by the player who has control over the girl.
-   - A girl whose control is not taken by any player will vote to Disagree.
+   - When a girl is not taken control by any player, she will vote to Disagree.
    - The girl who did Game of Love action here automatically vote to Agree.
 
 Determinate girls voting in order of Action order. A next action order girl of the girl started Game of Love action votes first.
