@@ -39,7 +39,7 @@ When reveal step finished at a girl having "Cool" Orientation, the player taking
 
 When all Control point reveal step ends, advanced to 1st turn's Action phase. Game will progress same as basic game after this phase.
 
-![性向付与状態の画像](img/seikou.png)
+![Orientation](img/seikou-en.png)
 
 ### Changes about Support Point
 
@@ -103,7 +103,7 @@ Tsuge did Game of Love to Murafuji-Momozono pair. Tsuge is the propose having Fr
 
 ## About five players game
 
-When you play with five players, add Haila Ilumi and Momozono Renge to make nine girls game. Rules in five players are same with three or four players game except number of girls.
+When you play with five players, add Haila Ilmi and Momozono Renge to make nine girls game. Rules in five players are same with three or four players game except number of girls.
 
 
 ## 点数計算アプリの紹介
