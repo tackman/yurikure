@@ -18,7 +18,7 @@ Or Yuri Polygamy with three or more girls may also bring victory for players uns
 
 ![component image](img/components-en.png)
 
-# Setup
+## Setup
 
 ## Settle initial couple and initial Favors
 
@@ -60,10 +60,9 @@ You have possibility to control girl's Action by your Control Points.
 Control Points' values are introduced from each player's Support Point automatically.
 These values are calculated by following rule:
 
-```
-_Any girl's control point = Sum of Support Points' values where girls pair(s) including the girl_
-```
+#### Any girl's control point = Sum of Support Points' values where girls pair(s) including the girl
 
+```plaintext
 Example:
 Player A assigned his support points to "Aakane / Shirakaba" by 3, "Shirakaba / Kuroki" by 2.
 Here,
@@ -72,7 +71,7 @@ Control Point of Shirakaba = 3 + 2 = 5
 Control Point of Kuroki = 2
 ```
 
-```
+```plaintext
 You can declare you have Control Point to a girl in Action Phase (described below). About Exposure of Control Point is explained in Turns and Action Phases.
 ```
 
@@ -88,7 +87,7 @@ You may assign 6th turn' additional points one by one. In other words, you can d
 3 points to a girls pair, 2 points to a girls pair and 1 point to a girls pair, 1 points to three different girls pair.
 **After Support Points added, Control Points also raises according to assigned Support Points.**
 
-# Turns
+## Turns
 
 "Turn" is a cycle of game progress. A turn contains following three phases.
 
@@ -106,7 +105,7 @@ You may assign 6th turn' additional points one by one. In other words, you can d
 
 When game end condition is satisfied in "Kiss of Promise phase", the turn ends **immediately** and proceeds to winner determination.
 
-```
+```plaintext
 Immediate turn end may affect when Fatal couple and Yuri Polygamy are satisifed in same time.
 ```
 
@@ -130,7 +129,7 @@ Here, before the action is determined Player B interrupted to reveal 2 Control P
 Player A has more (hidden) control point over Murafuji, so he revealed 4 Control Point to Murafuji and declared Approach to Kuroki again.
 No other player revealed higher Control Point about Murafuji, therefore Murafji's action is determined to Approach to Kuroki.
 
-```
+```plaintext
 Above is simplified rule about revealing Control Points. More strict (but complex) rule is provided in our web site. Applying strict rule is recommended if all players are expert.
 ```
 
@@ -166,7 +165,7 @@ Whether confessed girl chooses OK or No, every girls pair of existing couple oth
 A newly formed couple is displayed by Couple marker's "Before Kiss of Promise" blue side.
 Even if a newly formed couple was once a couple with same girls pair before, they will start from "Before Kiss of Promise" again.
 
-```
+```plaintext
 A girl who is already a part of couple may be confessed from other girls. This may cause so-called two-timing.
 ```
 
@@ -185,9 +184,9 @@ Determinate girls voting in order of Action order. A next action order girl of t
 When the last action order's girl votes, voting continues to 1st girl and all girls except voted girls will vote.
 
 - Majority agree votes causes following effect. If Disagree is majority, nothing will happen.
-  1.  Each target girl chooses they will be a couple or not. Choice is done in Action order.
-  1.  If BOTH target girls chose OK to become a new couple, they will be a couple and causes same effects as formed couple in Confession.
-  1.  If ONE OF target girls chose No to become a new couple, Discomfort level raises by 1 between these girls pair.
+  1. Each target girl chooses they will be a couple or not. Choice is done in Action order.
+  1. If BOTH target girls chose OK to become a new couple, they will be a couple and causes same effects as formed couple in Confession.
+  1. If ONE OF target girls chose No to become a new couple, Discomfort level raises by 1 between these girls pair.
 
 #### Do nothing
 
@@ -204,7 +203,7 @@ Roll dice to every couple. Effect is determined by score of "(Die number) - (Dis
 - 3 or more: No effect
 - If die number is 6, do nothing above and raise Favor level by 1 (imagine critical).
 
-```
+```plaintext
 Die number 6 is exceptional case, not affected by score of "(Die number) - (Discomfort level)".
 ```
 
@@ -224,7 +223,7 @@ If a "first time succeeded" couple failed Kiss of Promise, the state will back t
 If "first time succeeded" couple succeeded Kiss of Promise again in this turn, the couple will be Fatal Couple and the game ends.
 When multiple couples exists, all roll dice about Kiss of Promise are treated as same time. It means multiple Fatal Couples may be born in one game.
 
-```
+```plaintext
 Fatal couple needs to succeed Kiss of Promise in continuous 2 turns. Success, failure and then success cannot introduce to Fatal Couple.
 ```
 
@@ -232,7 +231,7 @@ When Fatal Couple is born, winner is determined by sum of Support Point to Fatal
 If sum of Support Point tie-breaks, a player who revealed **LESS** Control Points about Fatal Couple(s) is winner.
 If revealed Control Points are also same, the game is draw.
 
-```
+```plaintext
 Example: Shirakaba and Midorino became a Fatal Couple. Player A and Player B both assigned 4 Support Points to Shirakaba-Midorino and they were max in the game.
 Player A has revealed 3 Control Point to Shirakaba and 4 Control Point to Midorino.
 Player B has revealed 1 Control Point to Shirakaba and 5 Control Point to Midorino.
@@ -243,7 +242,7 @@ Sum of revealed Control Points is; A is 7, B is 6. It results winner is B.
 
 When no Fatal Couple is born in Kiss of Promise phase, check Yuri Polygamy is formed or not. Yuri Polygamy means "In 3 ore more girls group, all girls pair in group is couple".
 
-```
+```plaintext
 Example 1: When Akane and Shirakaba, Shirakaba and Kuroki, Kuroki and Akane are couples, Akane-Shirakaba-Kuroki's Yuri Polygamy is formed.
 Example 2: When Sorai and Midorino, Midorino and Tsuge are couples and Sorai and Tsuge is not a couple, Sorai-Midorino-Tsuge is not a Yuri Polygamy.
 Example 3: Murafuji and Akane, Murafuji and Kuroki, Murafuji and Shirakaba, Akane and Kuroki, Akane and Shirakaba, Kuroki and Shirakaba are couples, Murafuji-Akane-Kuroki-Shirakaba forms Yuri Polygamy.
@@ -258,12 +257,12 @@ Tie-break is also determined by revealed Control Points same as Fatal Couple's c
 
 When both Fatal Couple and Yuri Polygamy is not born at the end of 9th turn, winner is determined by existing couple(s). Count Support Points (and Control Points to tie-break) same as Fatal Couple's case.
 
-# Misc rules
+## Misc rules
 
 - Max Favor / Discomfort level is 6.
 - Favor level token or other components may short, actual game should not be affected by constraint from physical components.
 
-# FAQ
+## FAQ
 
 - In 1st turn, another girls pair (not an initial couple settled in Setup) became a couple. Does this couple try Kiss of Promise in 1st turn?
 
