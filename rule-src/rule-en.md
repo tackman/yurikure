@@ -49,8 +49,12 @@ Players write their Support Points on the Support Point Sheet **after the initia
 Each player chooses five Girl Pairs in secret, then writes down different 1 ~ 5 point values for the five Girl Pairs.
 These values are Support Points. Each value expresses how much the player pushes a Girl Pair.
 Higher values mean higher support for this Girl Pair.
-You must not use same value more than once, and the total Support Points will add up to 15.
-You may give the same Girl Pair Support Points more than once.
+You must not use the same value more than once, and the total Support Points will add up to 15.
+As an advanced rule, you may give the same Girl Pair Support Points more than once during setup. For example, if you give Akane-Sorai 5 Support Points, you may also give them 4 Support Points for a total of 9.
+
+```plaintext
+When playing for the first time, it is recommended to only allow Support Points to be given to the same Girl Pair once.
+```
 
 All Support Points decided here will be hidden until the game ends.
 
@@ -129,7 +133,7 @@ When you reveal your Control Points for a girl whose control has already been ta
 Example: Player A has 7 hidden Control Points over Murafuji. Nobody has revealed Control Points over Murafuji, so Player A reveals 1 Control Point to Murafuji and declares Murafuji will Approach Kuroki.
 Here, before the action is completed, Player B interrupts to reveal 2 Control Points to Murafuji, then declares her action will be a Confession to Midorino.
 Player A has more (hidden) Control Points over Murafuji, so he reveals 4 Control Points to Murafuji and declares Approach to Kuroki again.
-No other player reveals more Control Points for Murafuji, therefore Murafji's action is to Approach Kuroki.
+No other player reveals more Control Points for Murafuji, therefore Murafuji's action is to Approach Kuroki.
 
 ```plaintext
 Above is a simplified rule about revealing Control Points. More strict (but complex) rules are provided on our website. Applying strict rules is recommended if all players are expert.
@@ -158,7 +162,7 @@ Confession is declared along with a target girl.
    - The confessed to girl's choice is decided by the player who has control over her. Other players may interrupt to change the girl's choice by revealing their Control Points.
    - If no player reveals Control Points for the confessed to girl, the girl will choose "No".
 
-1. When the confessed to girl chooses "No", the result is determined by a roll of a dice.
+1. When the confessed to girl chooses "No", the result is determined by the roll of a dice.
    - If the rolled number is less than or equal to Favor level, this Girl Pair will become a couple (even though the confessed to girl said "No".)
    - If the rolled number is greater than the Favor level, they will not become a couple, and the Favor level increases by 1 between them.
 
@@ -173,7 +177,7 @@ A girl who is already part of a couple may be confessed to by other girls. This 
 
 #### Game of Love
 
-This action is a game of love, played by the girls. You need to declare a Game of Love along with the target Girl Pair. The target Girl Pair must not already be a couple (a girl in the target Girl's Pair may be part of a couple with another girl).
+This action is a Game of Love, played by the girls. You need to declare a Game of Love along with the target Girl Pair. The target Girl Pair must not already be a couple (a girl in the target Girl Pair may be part of a couple with another girl).
 
 The other girls with vote on whether the target Girl Pair should become a couple.
 

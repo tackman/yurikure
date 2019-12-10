@@ -95,7 +95,7 @@ The Favor level between Sorai and Midorino is 1 at the end of setup. Player A ta
 
 Haila and Momozono are a couple with Favor level 2 and Discomfort level 3. The dice result to determine break up was 3 in the Couples Phase. They will usually break up because a dice result of 3 is less than or equal to the Discomfort level, but Haila has Attracted to reduce the effective Discomfort level by 1 to treat it as 2. So they do not break up and Discomfort level increases to 4. After this dice result in Kiss of Promise is 4. Usually, they will fail because (dice result 4) + (Favor level 2) - (Discomfort level 4) = 2 and this value is less than 4. But Haila and Momozono both have Cute to gain a bonus in Kiss or Promise and the final value becomes 4. Therefore, they succeed in the Kiss of Promise.
 
-Tsuge declares a Game of Love with the Murafuji-Momozono pair. Tsuge declared the Game of Love, and has Friendly. So she votes "Yes" 3 times. Murafuji also has Friendly but she is a part of target pair so she cannot use the effect of Friendly. One of the other girls votes "Yes" and three vote "No". As a result, 4 votes to "Yes" and 3 votes to "No" cause the Game of Love to pass.
+Tsuge starts a Game of Love with the Murafuji-Momozono pair. Tsuge started the Game of Love, and has Friendly. So she votes "Yes" 3 times. Murafuji also has Friendly but she is a part of target pair so she cannot use the effect of Friendly. One of the other girls votes "Yes" and three vote "No". As a result, 4 votes to "Yes" and 3 votes to "No" cause the Game of Love to pass.
 ```
 
 ## About five players game
